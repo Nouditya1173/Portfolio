@@ -18,7 +18,7 @@ const About = () => {
         <br />
 
         <p className="text-xl">
-        I've gained expertise in a number of programming languages, including JavaScript, C++, etc., and skills in advance and modern technologies like MERN stack. As a constant learner, I look forward to securing opportunities that will provide me with new perspectives, allowing me to become better at what I do. I appreciate you taking the time to check out my portfolio. Don't hesitate to contact me ! 
+        I've gained expertise in a number of programming languages, including JavaScript, C++, java etc., and skills in advance and modern technologies like MERN stack. As a constant learner, I look forward to securing opportunities that will provide me with new perspectives, allowing me to become better at what I do. I appreciate you taking the time to check out my portfolio. Don't hesitate to contact me ! 
         </p>
         </div>
     </div>
