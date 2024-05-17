@@ -33,19 +33,19 @@ const SocialLinks = () => {
                 </>  
             ),
             href: 'mailto:nouditya110703@gmail.com',
-            style: 'rounded-tr-md'
+            //style: 'rounded-tr-md'
         },
-        /*{
+        {
             id: 4,
             child: (
                 <>
                 Resume <BsFillPersonLinesFill size={30} />
                 </>  
             ),
-            href: '/Mausoomi_Roy.pdf',
-            style: 'rounded-tr-md',
+            href: '/Nouditya Resume.pdf',
+            style: 'rounded-br-md',
             download: true,
-        },*/
+        },
     ]
 
   return (
