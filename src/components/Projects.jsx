@@ -3,6 +3,7 @@ import Weather from '../assets/portfolio/Weather.png';
 import Guess from '../assets/portfolio/Guess.png'
 import Currency from '../assets/portfolio/Currency.png'
 import todo from '../assets/portfolio/todo.png'
+import pass from '../assets/portfolio/pass.png'
 
 const Projects = () => {
   const portfolios = [
@@ -29,6 +30,12 @@ const Projects = () => {
       src: todo ,
       demoLink: 'https://todo-list-gamma-roan.vercel.app/', 
       codeLink: 'https://github.com/Nouditya1173/Todo_List', 
+    },
+    {
+      id: 5,
+      src: pass ,
+      demoLink: 'https://password-generator-one-bice.vercel.app/', 
+      codeLink: 'https://github.com/Nouditya1173/Password-Generator', 
     },
   ];
 
